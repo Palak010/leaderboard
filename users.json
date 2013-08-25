@@ -1,5 +1,5 @@
 // [IRC Nick, Email, Commit Access Level]
-var users = [
+var users = ["palak010","jain.palak010@gmail.com",0],
  ["Debloper", "debloper@gmail.com", 1],
  ["Optimizer", "scrapmachines@gmail.com", 3],
  ["sankha93", "sankha93@gmail.com", 1],
